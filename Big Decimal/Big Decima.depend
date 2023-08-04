@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1540234187 source:c:\users\abd-elrahman\desktop\big decima\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+
+1540233251 c:\users\abd-elrahman\desktop\big decima\bigdecimal.h
+	<iostream>
+
+1540234345 source:c:\users\abd-elrahman\desktop\big decima\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1540484598 source:c:\users\abd-elrahman\desktop\big decimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+
+1540478695 c:\users\abd-elrahman\desktop\big decimal\bigdecimal.h
+	<string>
+
+1540484554 source:c:\users\abd-elrahman\desktop\big decimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1540484600 source:d:\fci\2\first\programming ll\big decimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+
+1540478696 d:\fci\2\first\programming ll\big decimal\bigdecimal.h
+	<string>
+
+1552155358 source:d:\fci\2\first\programming ll\big decimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1687283666 source:e:\fci\2\first\programming ll\big decimal\main.cpp
+	<iostream>
+	"BigDecimal.h"
+
+1540482296 e:\fci\2\first\programming ll\big decimal\bigdecimal.h
+	<string>
+
+1687283666 source:e:\fci\2\first\programming ll\big decimal\bigdecimal.cpp
+	"BigDecimal.h"
+	<iostream>
+
